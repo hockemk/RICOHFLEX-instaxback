@@ -1,7 +1,6 @@
 # RICOHFLEX instax back
 
-![RICOHFLEX instax back](<img width="3024" height="3024" alt="IMG_5266" src="https://github.com/user-attachments/assets/adb89240-38ad-4c6f-bc18-fd22d8356fc8" />
-)
+![RICOHFLEX instax back](<img width="3024" height="3024" alt="IMG_5266" src="https://github.com/user-attachments/assets/adb89240-38ad-4c6f-bc18-fd22d8356fc8" />)
 
 # RICOHFLEX instax back
 
