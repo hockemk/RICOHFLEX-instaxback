@@ -1,6 +1,6 @@
 # RICOHFLEX instax back
 
-![RICOHFLEX instax back](photos/IMG_5266.jpg)
+![RICOHFLEX instax back](photos/1-PANA4302.jpg)
 
 # RICOHFLEX instax back
 
