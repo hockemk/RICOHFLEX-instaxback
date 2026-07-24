@@ -1,6 +1,6 @@
 # RICOHFLEX instax back
 
-![RICOHFLEX instax back](photos/IMG_5266.jpg)
+![RICOHFLEX instax back](photos/1-PANA4302.jpg)
 
 An open-source conversion kit that enables **Ricohflex** twin-lens reflex cameras to use **instax mini** film.
 
