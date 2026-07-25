@@ -33,7 +33,7 @@ Contains all files required to build the kit.
 
 - **bom** – Bill of Materials
 - **parts** – STL, STEP, and technical drawings
-- **assembly** – Complete assembly model (STEP)
+- **assembly** – Complete assembly model (STEP) and AssemblyNotes
 - **extras** – Optional accessories such as lens hoods and filter adapters
 
 ### `manual`
