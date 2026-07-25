@@ -37,7 +37,7 @@ Contains all files required to manufacture the kit.
 
 ### `manual`
 
-Contains assembly instructions and the user manual.
+Contains user manual.
 
 ---
 
