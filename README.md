@@ -1,77 +1,79 @@
 # RICOHFLEX instax back
 
-![RICOHFLEX instax back](photos/IMG_5266.jpg)
+![RICOHFLEX instax back](photos/1-PANA4302.jpg)
 
-An open-source conversion kit that enables **Ricohflex** twin-lens reflex cameras to use **instax mini** film.
+# RICOHFLEX instax back
 
-This repository contains the 3D models, CAD files, technical drawings, bill of materials, and manuals required to build the kit.
+RICOHFLEXで**instax mini**フィルムを使用できるようにするための改造キットです。
 
-The project is primarily based on 3D-printed parts, but several critical components require metal fabrication. It is intended for makers with basic machining tools and fabrication experience.
+このリポジトリでは、キットを製作するために必要な3Dデータ、図面、部品表、マニュアルを公開しています。
+
+本プロジェクトは3Dプリント部品を中心に構成されていますが、一部の重要部品には金属加工が必要です。そのため、ある程度の工作設備や加工経験を持つ方向けの内容となっています。
 
 ---
 
-## Compatible Cameras
+## 対応機種
 
-This kit is designed for Ricohflex models equipped with a **helicoid focusing mechanism**.
+ヘリコイド式のピント調整機構を持つRICOHFLEXに対応しています。
 
-Verified compatible models:
+確認済み機種
 
 * RICOHFLEX III
 * RICOHFLEX VI
 * RICOHFLEX VII
+など
 
-This kit is not compative with the RICOHFLEX Dia*
+RICOHFLEX Dia には対応していません。
 
 ---
 
-## Repository Structure
+## リポジトリ構成
 
 ### `data`
 
-Contains all files required to manufacture the kit.
+製作に必要なデータをまとめています。
 
-* **bom** – Bill of Materials
-* **parts** – STL, STEP, and technical drawings
-* **assembly** – Assembled STEP model
-* **extras** – Optional accessories such as a lens hood and filter adapters
+* **bom** - 部品表
+* **parts** - STL、STEP、部品図
+* **extras** - レンズフードなどのおまけデータ
 
 ### `manual`
 
-Contains assembly instructions and the user manual.
+組立方法や取扱方法などのマニュアルをまとめています。
 
 ---
 
-## Getting Started
+## はじめに
 
-Before building the kit, it is recommended to follow these steps:
+製作を始める前に、以下の手順で進めることをおすすめします。
 
-1. Review the Bill of Materials (BOM).
-2. Manufacture or print the required parts using the STL, STEP, and drawing files.
-3. Assemble the kit by following the Assembly Guide.
-4. Read the User Manual before use.
-
----
-
-## Feedback
-
-Bug reports, compatibility reports, suggestions, and improvements are always welcome.
-
-If you create a modified or improved version, I'd love to hear about it.
+1. 部品表（BOM）を確認する
+2. STL・STEP・図面を確認し、必要な部品を製作する
+3. 組立マニュアルを参照しながら組み立てる
+4. 取扱説明書を確認して使用する
 
 ---
 
-## License
+## フィードバック
 
-Personal use, modification, and improvements are welcome.
+不具合報告、改善案、対応機種の情報などはいつでも歓迎します。
 
-Commercial use, redistribution, and the sale of products based on this project are **not permitted**.
-
-Please refer to the **LICENSE** file for detailed terms.
+もし改良版や派生作品を製作した場合は、ぜひ教えてください。
 
 ---
 
-## Development
+## ライセンス
 
-The development process and design background are documented on my blog.
+個人での利用、改造、改良は大歓迎です。
 
-If you're interested in how this project was created, feel free to take a look.
+本プロジェクトおよび本プロジェクトのデータを利用した製品の商用利用・販売は禁止とします。
+
+詳しくは **LICENSE** をご確認ください。
+
+---
+
+## 開発について
+
+このプロジェクトの開発経緯や設計に関する記事は、ブログで公開しています。
+
+開発記録や設計意図に興味のある方は、ぜひそちらもご覧ください。
