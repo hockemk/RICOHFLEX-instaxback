@@ -16,7 +16,6 @@ RICOHFLEXで**instax mini**フィルムを使用できるようにするため�
 
 ヘリコイド式のピント調整機構を持つRICOHFLEXに対応しています。
 
-確認済み機種
 
 * RICOHFLEX III
 * RICOHFLEX VI
