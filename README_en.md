@@ -14,7 +14,6 @@ The project is primarily based on 3D-printed parts, but several critical compone
 
 This kit is designed for Ricohflex models equipped with a **helicoid focusing mechanism**.
 
-Verified compatible models:
 
 - RICOHFLEX III
 - RICOHFLEX VI
