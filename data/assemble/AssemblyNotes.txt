@@ -1,0 +1,12 @@
+This document supplements the STEP assembly model and highlights only the adjustments and precautions that are not immediately obvious from the model itself.
+Illustrated assembly instructions are not provided. Please refer to Complete_Assembly.step for the overall assembly structure.
+
+The following notes highlight the areas that require particular attention during assembly.
+
+Completely remove the built-in support structures from P-01 Body and P-02 Film Claw Arm before assembly.
+The performance of the film transport mechanism depends heavily on the shape and adjustment of the tip of M-02 Film Claw. Fine-tune it as necessary.
+P-03 Lever must move freely without binding after assembly. If necessary, ream or drill the pivot hole slightly to ensure smooth movement.
+P-06 Front Roller Gear and P-07 Rear Roller Gear are different parts. Installing them in the wrong positions will prevent the mechanism from operating correctly.
+M-09 Roller Pressure Spring can be made from the handle wire of a 15 mm binder clip. Modify it as required.
+The springs are installed under significant compression. Wear appropriate eye protection during assembly, as the springs may eject unexpectedly.
+Spot welding is recommended for attaching M-12 Latch Stud and C-03 Film Pack Spring to M-11 Back Panel.
