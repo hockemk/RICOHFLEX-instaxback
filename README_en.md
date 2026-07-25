@@ -47,7 +47,7 @@ Contains user manual.
 
 1. Review the **Bill of Materials (BOM)**.
 2. Manufacture the required parts using the STL, STEP, and drawing files.
-3. Assemble the kit by following the Assembly Guide.
+3. Assemble the kit by following the Assembly Guide and STEP file.
 4. Read the User Manual before use.
 
 ---
