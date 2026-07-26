@@ -9,4 +9,5 @@ P-03 Lever must move freely without binding after assembly. If necessary, ream o
 P-06 Front Roller Gear and P-07 Rear Roller Gear are different parts. Installing them in the wrong positions will prevent the mechanism from operating correctly.
 M-09 Roller Pressure Spring can be made from the handle wire of a 15 mm binder clip. Modify it as required.
 The springs are installed under significant compression. Wear appropriate eye protection during assembly, as the springs may eject unexpectedly.
+Apply a small amount of lubricant to all bearing surfaces and to any shaft where a spring slides.
 Spot welding is recommended for attaching M-12 Latch Stud and C-03 Film Pack Spring to M-11 Back Panel.
